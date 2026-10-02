@@ -25,7 +25,7 @@ def check_server(server_name, server_load):
         return("Balanced")
 
 
-print(f"Hi {name}, Checking {server_load})
+print(f"Hi {name}, Checking {server_load}")
 answer =check_server(server_name, server_load)
 
 
