@@ -24,6 +24,8 @@ def check_server(server_name, server_load):
     else:
         return("Balanced")
 
+
+print(name)
 answer =check_server(server_name, server_load)
 
 
