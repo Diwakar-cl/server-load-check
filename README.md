@@ -1,7 +1,6 @@
 # server-load-check
 
-A small Python automation script I wrote while learning Python for a
-DevOps Trainee role.
+
 
 ## What it does
 
